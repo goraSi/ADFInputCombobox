@@ -1,0 +1,10 @@
+.data
+app
+deploy
+Model/classes
+Model/deploy
+Reports/classes
+Reports/deploy
+ViewController/classes
+ViewController/deploy
+ViewController/public_html/WEB-INF/temp
